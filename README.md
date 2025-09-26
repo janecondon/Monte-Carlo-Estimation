@@ -1,4 +1,4 @@
-# AMS 595 Project 1: Monte Carlo Estimation
+# Monte Carlo Estimation
 **Author:** Jane Condon  
 
 ---
